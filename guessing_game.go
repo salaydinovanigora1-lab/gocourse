@@ -26,7 +26,7 @@ func main() {
 
 		//check if the guess is correct
 		if guess == target {
-			fmt.Println("Congratulations! you guessed the correct number!")
+			fmt.Println("Congratulations! you guessed the correct numbesg]gq.bkmkgrmkkmkfffer!")
 			break
 		} else if guess < target {
 			fmt.Println("Too low! Try guessing a higher number.")
